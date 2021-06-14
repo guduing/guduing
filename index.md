@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 此域名可以出售！
 
 You can use the [editor on GitHub](https://github.com/guduing/guduing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
